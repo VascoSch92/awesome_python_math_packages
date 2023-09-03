@@ -72,7 +72,7 @@
 
 ## Linear Algebra
 
-- [NumPy](https://github.com/numpy/numpy):
+- [NumPy](https://github.com/numpy/numpy): The fundamental package for scientific computing with Python
 - [Spatial Maths for Python](https://github.com/bdaiinstitute/spatialmath-python): Create, manipulate and convert
   representations of position and orientation in 2D or 3D using Python
 - [PentaPy](https://github.com/GeoStat-Framework/pentapy): A Python toolbox for pentadiagonal linear systems
