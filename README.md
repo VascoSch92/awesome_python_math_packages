@@ -81,6 +81,7 @@ directly.
 - [Spatial Maths for Python](https://github.com/bdaiinstitute/spatialmath-python): Create, manipulate and convert
   representations of position and orientation in 2D or 3D using Python
 - [PentaPy](https://github.com/GeoStat-Framework/pentapy): A Python toolbox for pentadiagonal linear systems
+- [PyLops](https://github.com/PyLops/pylops): A Linear-Operator Library for Python
 - [Poisson-solver-2D](https://github.com/zaman13/Poisson-solver-2D): Finite difference solution of 2D Poisson equation.
   Can handle Dirichlet, Neumann and mixed boundary conditions
 
