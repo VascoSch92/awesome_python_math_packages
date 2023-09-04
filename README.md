@@ -1,5 +1,10 @@
 # Python Math Packages
 
+The idea of this list is to group together all packages that deal with mathematics.
+
+If you find an error or you would like to add an item to the list please feel free to contact me or create a PR
+directly.
+
 ## Algebra
 
 - [abstract_algebra](https://github.com/alreich/abstract_algebra): Abstract Algebra: An implementation of Finite
