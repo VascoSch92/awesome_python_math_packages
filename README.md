@@ -90,6 +90,7 @@ directly.
 
 ## Probability and Statistics
 
+- [Statsmodels](https://github.com/statsmodels/statsmodels/): statistical modeling and econometrics in Python
 - [WagerBrain](https://github.com/sedemmler/WagerBrain): A package containing the essential math required for sports
   betting and gambling
 
