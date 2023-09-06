@@ -2,7 +2,7 @@
 
 The idea of this list is to group together all packages that deal with mathematics.
 
-If you find an error or you would like to add an item to the list please feel free to contact me or create a PR
+If you find an error, or you would like to add an item to the list please feel free to contact me or create a PR
 directly.
 
 ## Algebra
@@ -88,6 +88,10 @@ directly.
 ## Number Theory
 
 - [AlgNuTh](https://github.com/louisabraham/algnuth): Algebraic Number Theory package
+- [primePy](https://github.com/janaindrajit/primePy): This module cal quickly find prime factors with multiplicity of a
+  given number. This module also has several other prime factor functions
+- [primesieve-Python](https://github.com/shlomif/primesieve-python): Fast prime number generator. Python bindings for
+  the primesieve C++ library
 
 ## Probability and Statistics
 
