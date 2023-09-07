@@ -5,6 +5,25 @@ The idea of this list is to group together all packages that deal with mathemati
 If you find an error, or you would like to add an item to the list please feel free to contact me or create a PR
 directly.
 
+---
+
+The document is subdivised in the following sections:
+
+- [Algebra](#algebra)
+- [Analysis](#analysis)
+- [Animations and Images](#animations-and-images)
+- [Dynamical Systems](#dynamical-systems)
+- [General Mathematics](#general-mathematics)
+- [Graph Theory](#graph-theory)
+- [Group Theory](#group-theory)
+- [Learning Math](#learning-math)
+- [Linear Algebra](#linear-algebra)
+- [Number Theory](#number-theory)
+- [Probability and Statistics](#probability-and-statistics)
+- [Others](#others)
+
+---
+
 ## Algebra
 
 - [abstract_algebra](https://github.com/alreich/abstract_algebra): Abstract Algebra: An implementation of Finite
