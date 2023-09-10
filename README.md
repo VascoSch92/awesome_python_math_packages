@@ -43,7 +43,7 @@ The document is subdivided in the following sections:
 
 ## Analysis
 
-- [PyAbel](https://github.com/PyAbel/PyAbel):A python package for Abel and inverse Abel transforms
+- [PyAbel](https://github.com/PyAbel/PyAbel): A python package for Abel and inverse Abel transforms
 
 ## Animations and Images
 
