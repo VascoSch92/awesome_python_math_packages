@@ -81,6 +81,9 @@ The document is subdivided in the following sections:
 
 ## Group Theory
 
+- [abelian](https://github.com/tommyod/abelian): Computations on locally compact Abelian groups
+- [abeliantensors](https://github.com/mhauru/abeliantensors): A library for Abelian symmetry preserving tensors in
+  Python 3
 - [Liegroups](https://github.com/utiasSTARS/liegroups): Python implementation of SO2, SE2, SO3, and SE3 matrix Lie
   groups using numpy or pytorch
 - [Permuta](https://github.com/PermutaTriangle/Permuta): A native Python library for permutation pattern research
