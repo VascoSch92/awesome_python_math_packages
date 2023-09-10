@@ -7,7 +7,7 @@ directly.
 
 ---
 
-The document is subdivised in the following sections:
+The document is subdivided in the following sections:
 
 - [Algebra](#algebra)
 - [Analysis](#analysis)
