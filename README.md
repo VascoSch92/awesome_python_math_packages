@@ -2,7 +2,7 @@
 
 The idea of this list is to group together all packages that deal with mathematics.
 
-If you find an error, or you would like to add an item to the list please feel free to contact me or create a PR
+If you find errors, or you would like to add an item to the list, please feel free to contact me or create a PR
 directly.
 
 ---
