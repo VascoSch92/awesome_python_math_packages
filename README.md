@@ -99,6 +99,8 @@ The document is subdivided in the following sections:
 
 ## Linear Algebra
 
+- [hermite-function](https://github.com/goessl/hermite-function): A Hermite function series module
+- [multipoly](https://github.com/goessl/multipoly): A multivariate polynomial module
 - [NumPy](https://github.com/numpy/numpy): The fundamental package for scientific computing with Python
 - [Spatial Maths for Python](https://github.com/bdaiinstitute/spatialmath-python): Create, manipulate and convert
   representations of position and orientation in 2D or 3D using Python
