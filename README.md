@@ -118,6 +118,7 @@ The document is subdivided in the following sections:
 - [primesieve-Python](https://github.com/shlomif/primesieve-python): Fast prime number generator. Python bindings for
   the primesieve C++ library
 - [pyadic](https://github.com/GDeLaurentis/pyadic): p-Adic numbers and finite fields in Python
+- [sequentium](https://github.com/VascoSch92/sequentium): Sequentium is a user-friendly package that implements various well-known sequences, providing a seamless and intuitive experience for the user
 - [oeis](https://github.com/JulienPalard/oeis): Newcomer friendly project implementing a few oeis.org sequences
 
 
