@@ -117,6 +117,7 @@ The document is subdivided in the following sections:
   given number. This module also has several other prime factor functions
 - [primesieve-Python](https://github.com/shlomif/primesieve-python): Fast prime number generator. Python bindings for
   the primesieve C++ library
+- [pyadic](https://github.com/GDeLaurentis/pyadic): p-Adic numbers and finite fields in Python
 - [oeis](https://github.com/JulienPalard/oeis): Newcomer friendly project implementing a few oeis.org sequences
 
 
