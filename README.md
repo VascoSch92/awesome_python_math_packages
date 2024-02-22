@@ -44,7 +44,7 @@ The document is subdivided in the following sections:
 ## Analysis
 
 - [PyAbel](https://github.com/PyAbel/PyAbel): A python package for Abel and inverse Abel transforms
-
+- [py-pde](https://github.com/zwicker-group/py-pde): Python package for solving partial differential equations using finite differences
 ## Animations and Images
 
 - [Blender_ParadoxToolkit](https://github.com/matgarate/Blender_ParadoxToolkit/tree/master): A toolkit to create 3D
