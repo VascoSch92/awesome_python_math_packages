@@ -1,11 +1,11 @@
-# Python Math Packages
+# Awesome Python Math Packages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-The idea of this list is to group together all packages that deal with mathematics.
+---
+
+An awesome list which group together all python packages that deal with mathematics.
 
 If you find errors, or you would like to add an item to the list, please feel free to contact me or create a PR
 directly.
-
----
 
 The document is subdivided in the following sections:
 
@@ -84,6 +84,7 @@ The document is subdivided in the following sections:
 - [abelian](https://github.com/tommyod/abelian): Computations on locally compact Abelian groups
 - [abeliantensors](https://github.com/mhauru/abeliantensors): A library for Abelian symmetry preserving tensors in
   Python 3
+- [bella](https://github.com/aelzenaar/bella): New computational package for small-rank matrix groups
 - [Liegroups](https://github.com/utiasSTARS/liegroups): Python implementation of SO2, SE2, SO3, and SE3 matrix Lie
   groups using numpy or pytorch
 - [Permuta](https://github.com/PermutaTriangle/Permuta): A native Python library for permutation pattern research
