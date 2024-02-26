@@ -63,6 +63,7 @@ The document is subdivided in the following sections:
 
 ## Dynamical Systems
 
+- [parcels](https://github.com/OceanParcels/parcels): Main code for Parcels (Probably A Really Computationally Efficient Lagrangian Simulator)
 - [PyNamical](https://github.com/gboeing/pynamical): Pynamical is a Python package for modeling and visualizing discrete
   nonlinear dynamical systems, chaos, and fractals
 
@@ -79,7 +80,6 @@ The document is subdivided in the following sections:
 ## Geometry
 
 - [pymanopt](https://github.com/pymanopt/pymanopt): Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
-- 
 
 ## Graph Theory
 
