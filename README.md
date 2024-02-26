@@ -14,6 +14,7 @@ The document is subdivided in the following sections:
 - [Animations and Images](#animations-and-images)
 - [Dynamical Systems](#dynamical-systems)
 - [General Mathematics](#general-mathematics)
+- [Geometry](#geometry)
 - [Graph Theory](#graph-theory)
 - [Group Theory](#group-theory)
 - [Learning Math](#learning-math)
@@ -45,6 +46,7 @@ The document is subdivided in the following sections:
 
 - [PyAbel](https://github.com/PyAbel/PyAbel): A python package for Abel and inverse Abel transforms
 - [py-pde](https://github.com/zwicker-group/py-pde): Python package for solving partial differential equations using finite differences
+
 ## Animations and Images
 
 - [Blender_ParadoxToolkit](https://github.com/matgarate/Blender_ParadoxToolkit/tree/master): A toolkit to create 3D
@@ -57,7 +59,6 @@ The document is subdivided in the following sections:
 - [Maige](https://github.com/chahak13/maige): Python package to generate math based images
 - [Manim](https://github.com/ManimCommunity/manim): A community-maintained Python framework for creating mathematical
   animations
-- [PrRGG](https://github.com/sepandhaghighi/pyrgg): Python Random Graph Generator
 - [visma-VISual MAth](https://github.com/aerospaceresearch/visma): an equation solver and visualizer
 
 ## Dynamical Systems
@@ -75,9 +76,15 @@ The document is subdivided in the following sections:
 - [SimPy](https://github.com/sympy/sympy): A computer algebra system written in pure Python
 - [SimPa](https://github.com/jnmclarty/sympa): Symbolic math for Pandas
 
+## Geometry
+
+- [pymanopt](https://github.com/pymanopt/pymanopt): Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
+- 
+
 ## Graph Theory
 
 - [graph-theory](https://github.com/root-11/graph-theory): A simple graph library
+- [PrRGG](https://github.com/sepandhaghighi/pyrgg): Python Random Graph Generator
 
 ## Group Theory
 
