@@ -7,7 +7,7 @@ An awesome list which group together all python packages that deal with mathemat
 If you find errors, or you would like to add an item to the list, please feel free to contact me or create a PR
 directly.
 
-The document is subdivided in the following sections:
+The document is divided in the following sections:
 
 - [Algebra](#algebra)
 - [Analysis](#analysis)
@@ -44,6 +44,7 @@ The document is subdivided in the following sections:
 
 ## Analysis
 
+- [foof](https://github.com/fooof-tools/fooof): Parameterizing neural power spectra into periodic & aperiodic components.
 - [PyAbel](https://github.com/PyAbel/PyAbel): A python package for Abel and inverse Abel transforms
 - [py-pde](https://github.com/zwicker-group/py-pde): Python package for solving partial differential equations using finite differences
 
