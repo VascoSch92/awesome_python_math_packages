@@ -44,7 +44,8 @@ The document is divided in the following sections:
 
 ## Analysis
 
-- [foof](https://github.com/fooof-tools/fooof): Parameterizing neural power spectra into periodic & aperiodic components.
+- [findiff](https://github.com/maroba/findiff): Python package for numerical derivatives and partial differential equations in any number of dimensions
+- [foof](https://github.com/fooof-tools/fooof): Parameterizing neural power spectra into periodic & aperiodic components
 - [PyAbel](https://github.com/PyAbel/PyAbel): A python package for Abel and inverse Abel transforms
 - [py-pde](https://github.com/zwicker-group/py-pde): Python package for solving partial differential equations using finite differences
 
