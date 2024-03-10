@@ -43,6 +43,7 @@ The document is divided in the following sections:
 
 ## Analysis
 
+- [dedalus](https://github.com/DedalusProject/dedalus): A flexible framework for solving PDEs with modern spectral methods
 - [findiff](https://github.com/maroba/findiff): Python package for numerical derivatives and partial differential equations in any number of dimensions
 - [foof](https://github.com/fooof-tools/fooof): Parameterizing neural power spectra into periodic & aperiodic components
 - [PyAbel](https://github.com/PyAbel/PyAbel): A python package for Abel and inverse Abel transforms
