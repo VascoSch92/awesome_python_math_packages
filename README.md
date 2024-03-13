@@ -31,6 +31,7 @@ The document is divided in the following sections:
 - [Galois](https://github.com/mhostetter/galois): A performant NumPy extension for Galois fields and their applications
 - [Hypercomplex](https://github.com/discretegames/hypercomplex): A Python library for working with arbitrary-dimension
   hypercomplex numbers following the Cayley-Dickson construction of algebras
+- [pixell](https://github.com/simonsobs/pixell): A rectangular pixel map manipulation and harmonic analysis library derived from Sigurd Naess' enlib
 - [Plabic](https://github.com/Cobord/Plabic): Cluster algebraic/geometric structures related to plabic graphs
 - [PyFinite](https://github.com/emin63/pyfinite): Finite field math in python including generic matrix operations and
   Reed-Solomon error correcting codes
