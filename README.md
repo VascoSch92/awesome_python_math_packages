@@ -136,6 +136,7 @@ The document is divided in the following sections:
 ## Probability and Statistics
 
 - [Statsmodels](https://github.com/statsmodels/statsmodels/): statistical modeling and econometrics in Python
+- [thejoker](https://github.com/adrn/thejoker): A custom Monte Carlo sampler for the (gravitational) two-body problem
 - [WagerBrain](https://github.com/sedemmler/WagerBrain): A package containing the essential math required for sports
   betting and gambling
 
