@@ -119,6 +119,7 @@ The document is divided in the following sections:
   representations of position and orientation in 2D or 3D using Python
 - [PentaPy](https://github.com/GeoStat-Framework/pentapy): A Python toolbox for pentadiagonal linear systems
 - [PyLops](https://github.com/PyLops/pylops): A Linear-Operator Library for Python
+- [PyParadiso](https://github.com/haasad/PyPardiso): Python interface to the Intel MKL Pardiso library to solve large sparse linear systems of equations.
 - [Poisson-solver-2D](https://github.com/zaman13/Poisson-solver-2D): Finite difference solution of 2D Poisson equation.
   Can handle Dirichlet, Neumann and mixed boundary conditions
 
