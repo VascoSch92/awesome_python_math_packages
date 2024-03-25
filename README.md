@@ -84,6 +84,7 @@ The document is divided in the following sections:
 
 ## Geometry
 
+- [boule](https://github.com/fatiando/boule): Reference ellipsoids for geodesy and geophysics
 - [pymanopt](https://github.com/pymanopt/pymanopt): Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
 
 ## Graph Theory
