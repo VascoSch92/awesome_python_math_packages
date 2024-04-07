@@ -48,6 +48,7 @@ The document is divided in the following sections:
 - [findiff](https://github.com/maroba/findiff): Python package for numerical derivatives and partial differential equations in any number of dimensions
 - [foof](https://github.com/fooof-tools/fooof): Parameterizing neural power spectra into periodic & aperiodic components
 - [harmonica](https://github.com/fatiando/harmonica): Forward modeling, inversion, and processing gravity and magnetic data
+- [MutatorMath](https://github.com/LettError/MutatorMath): Python library for piecewise linear interpolation in multiple dimensions with multiple, arbitrarily placed, masters.
 - [PyAbel](https://github.com/PyAbel/PyAbel): A python package for Abel and inverse Abel transforms
 - [pykoopman](https://github.com/dynamicslab/pykoopman): A package for computing data-driven approximations to the Koopman operator
 - [py-pde](https://github.com/zwicker-group/py-pde): Python package for solving partial differential equations using finite differences
