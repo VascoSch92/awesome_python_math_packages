@@ -52,6 +52,7 @@ The document is divided in the following sections:
 - [PyAbel](https://github.com/PyAbel/PyAbel): A python package for Abel and inverse Abel transforms
 - [pykoopman](https://github.com/dynamicslab/pykoopman): A package for computing data-driven approximations to the Koopman operator
 - [py-pde](https://github.com/zwicker-group/py-pde): Python package for solving partial differential equations using finite differences
+- [sfepy](https://github.com/sfepy/sfepy): SfePy is a software for solving systems of coupled partial differential equations (PDEs) by the finite element method in 1D, 2D and 3D.
 
 ## Animations and Images
 
