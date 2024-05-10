@@ -144,6 +144,7 @@ The document is divided in the following sections:
 - [PyAutoFit](https://github.com/rhayes777/PyAutoFit/tree/main): PyAutoFit: Classy Probabilistic Programming
 - [Statsmodels](https://github.com/statsmodels/statsmodels/): statistical modeling and econometrics in Python
 - [thejoker](https://github.com/adrn/thejoker): A custom Monte Carlo sampler for the (gravitational) two-body problem
+- [obscure_stats](https://github.com/glevv/obscure_stats): A small collection of lesser-known statistical measures
 - [WagerBrain](https://github.com/sedemmler/WagerBrain): A package containing the essential math required for sports
   betting and gambling
 
