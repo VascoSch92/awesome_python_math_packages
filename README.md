@@ -105,6 +105,7 @@ The document is divided in the following sections:
   groups using numpy or pytorch
 - [Permuta](https://github.com/PermutaTriangle/Permuta): A native Python library for permutation pattern research
 - [Permutation](https://github.com/jwodder/permutation): Permutations of finitely many positive integers
+- [symmetria](https://github.com/VascoSch92/symmetria): Symmetria provides an intuitive, thorough, and comprehensive framework for interacting with the symmetric group and its elements.
 
 ## Learning Math
 
