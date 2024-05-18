@@ -154,3 +154,4 @@ The document is divided in the following sections:
 - [MathTranslate](https://github.com/SUSYUSTC/MathTranslate): Translate scientific papers with math
 - [Gzint](https://github.com/pirate/gzint): A python3 library for efficiently storing massive integers (stands for
   gzipped-integer)
+- [PySymmPol](https://github.com/thraraujo/pysymmpol): Manipulation of various symmetric polynomials, and Young diagrams
