@@ -77,6 +77,7 @@ The document is divided in the following sections:
 
 ## General Mathematics
 
+- [AxiomPy](https://github.com/rkstudio585/AxiomPy): A python library for advance mathematics operations.
 - [libMath](https://github.com/4pz/libmaths): A Python library created to assist programmers with complex mathematical
   functions
 - [SciPy](https://github.com/scipy/scipy): SciPy (pronounced "Sigh Pie") is an open-source software for mathematics,
