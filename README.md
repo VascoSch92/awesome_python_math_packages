@@ -14,7 +14,7 @@ The document is divided in the following sections:
 - [Dynamical Systems](#dynamical-systems)
 - [General Mathematics](#general-mathematics)
 - [Geometry](#geometry)
-- [Graph Theory](#graph-theory)
+- [Graph Theory](#graph-theory)asddsad
 - [Group Theory](#group-theory)
 - [Learning Math](#learning-math)
 - [Linear Algebra](#linear-algebra)
