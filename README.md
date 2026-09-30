@@ -1,6 +1,6 @@
 # Awesome Python Math Packages [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Python packages that deal with mathematics.
+> Python packages for mathematics, from algebra and analysis to geometry, statistics, optimization, and topology.
 
 Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
 
